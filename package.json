@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-maxwell",
+  "version": "1.0.0",
+  "description": "eslint config for projects i start",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Maxwell Krause",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "eslint-config-airbnb-base": ">= 12",
+    "eslint-plugin-import": ">= 2"
+  }
+}

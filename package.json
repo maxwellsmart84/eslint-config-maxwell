@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-maxwell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config for projects i start",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,13 @@
   ],
   "author": "Maxwell Krause",
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": ">= 4",
     "eslint-config-airbnb-base": ">= 12",
     "eslint-plugin-import": ">= 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxwellsmart84/eslint-config-maxwell"
   }
 }
